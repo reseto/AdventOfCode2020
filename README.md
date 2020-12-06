@@ -1,5 +1,7 @@
 # AdventOfCode2020
 
+This is the first time I'm trying to write Rust programs, have mercy.
+
 [Amazingly written intro to Rust](https://stevedonovan.github.io/rust-gentle-intro/1-basics.html)
 
 ```rust
