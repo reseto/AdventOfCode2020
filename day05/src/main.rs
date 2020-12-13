@@ -61,7 +61,7 @@ BBFFBBFRLL
 input.to_string()
 }
 
-fn parse() -> String {
+fn _parse() -> String {
     let input = r########"BBFFBFBRLL
 FFFFBFBRLR
 BFFBBFBRLR
